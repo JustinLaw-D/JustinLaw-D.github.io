@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - JustinLaw-D
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - JustinLaw-D/NCell-Fractional-Minimal
+  - JustinLaw-D/NCell-Fractional-NoAscending
+  - JustinLaw-D/NCell-Fractional-Full
+  - JustinLaw-D/debris-simulations
+  - JustinLaw-D/debris-simulations-cpp
+  - JustinLaw-D/NCellJason

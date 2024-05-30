@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+title: Repositories
+description: The Sage code written while working on knot group representations is currently not available publically, please contact me if you have interest in obtaining it.
 nav: true
 nav_order: 4
 ---

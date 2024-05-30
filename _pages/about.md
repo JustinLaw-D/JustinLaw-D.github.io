@@ -1,25 +1,23 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://math.ubc.ca'>University of British Columbia</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: me.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my homepage! Here, you can find the various projects that I've worked on over the years, along with all the normal boring stuff (papers, cv, teaching, contact information, etc.).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+A little bit about myself : I'm currently a master's student in mathematics at UBC, studying under <a href='https://personal.math.ubc.ca/~ollivier/'>Rachel Ollivier</a> and <a href='https://personal.math.ubc.ca/~cautis/'>Sabin Cautis</a>. I tend to work in anything algebra related, but have a deep dark past as a physicist so I occationally find myself doing some more practical math as well.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside of work, I'm a recovered book addict, an avid DND player, and spend potentially too much time finding new and exciting ways to cook pasta. I used to be a hockey player as well, but that petered out once I moved into an apartment.
+
+Feel free to contact me about any of the projects or papers you find here, or for any other reason!
