@@ -26,7 +26,7 @@
     {
       "name": "UBC Mathematics",
       "position": "Research Assistant",
-      "url": "https://math.ubc.ca",
+      "url": "https://www.math.ubc.ca",
       "startDate": "2023-05-01",
       "endDate": "2023-08-31",
       "summary": "Worked with Dr. Ben Williams on characterizing the representations of knot groups in complex special linear groups.",
@@ -70,7 +70,7 @@
       "startDate": "2024-09-01",
       "endDate": "",
       "score": "10",
-      "courses": ["Thesis work on Hecke Algebras under Dr. Rachel Ollivier and Dr. Sabin Cautis."]
+      "courses": ["Thesis work on a TBD topic in algebra under Dr. Rachel Ollivier and Dr. Sabin Cautis."]
     },
     {
       "institution": "University of British Columbia",
@@ -168,15 +168,6 @@
       "awarder": "UBC Science One Program",
       "url": "https://students.ubc.ca/enrolment/finances/award-search/vancouver/faculty-science/science-one-program/4416",
       "summary": ""
-    }
-  ],
-  "publications": [
-    {
-      "name": "Please Ben",
-      "publisher": "ARXIV",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
     }
   ],
   "skills": [
