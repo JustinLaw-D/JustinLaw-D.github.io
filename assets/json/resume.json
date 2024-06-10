@@ -38,7 +38,7 @@
       "url": "https://phas.ubc.ca",
       "startDate": "2022-05-01",
       "endDate": "2023-01-31",
-      "summary": "Worked with Dr. Aaron Boley on modelling satellite collisions and resulting debris cascades in the low Earth orbit environment.",
+      "summary": "Worked with Dr. Aaron Boley on modeling satellite collisions and resulting debris cascades in the low Earth orbit environment.",
       "highlights": ["Created and implemented multiple atmospheric debris models, all based on a JASON-created model, using Python/Numpy."]
     },
     {
@@ -185,9 +185,9 @@
       ]
     },
     {
-      "name": "Statistical/Eperimental",
+      "name": "Statistical/Experimental",
       "keywords": [
-        "Experience building and collecting data from experimental apperatus",
+        "Experience building and collecting data from experimental apparatus",
         "Knowledge of data analysis using various statistical tests"
       ]
     }
