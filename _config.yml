@@ -4,9 +4,9 @@
 
 title: Justin Lawrence # the website title (if blank, full name will be used instead)
 first_name: Justin
-middle_name: Daniel
+middle_name:
 last_name: Lawrence
-email: justin11002@gmail.com
+email: justin@math.ubc.ca
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal website for Justin Lawrence, a MSc. student at UBC.
 footer_text: >
