@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: All the nonsense I've gotten up to over the years.
+description: All the things I've gotten up to over the years.
 nav: true
 nav_order: 3
 display_categories: [Work, Everything Else]

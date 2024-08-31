@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Satellite Modelling
-description: If Elon knew about this he probably wouldn't like me.
+description: Starlink and OneWeb Clusters Modelled
 img:
 importance: 2
 category: Work
@@ -25,5 +25,3 @@ There's a lot of ways to model this scenario. Since the computational cost of th
 In this plot, we assume that the satellite cluster is maintained by launching 1000 satellites per year, and that these satellites have an active lifetime of 2 years, after which they are de-orbited and safely burned up in the atmosphere. The black line is the cumulative number of collisions between debris and satellites, the red line the total amount of debris pieces in orbit, the blue line the active satellites in orbit, the yellow line the satellites deorbited, and the green line the satellites disabled by collisions with debris.
 
 A quick note since I assume you're curious, the cyclic behaviour seen in that graph arises from the solar cycle, which causes the atmospheric density around Earth to change cyclically along with it.
-
-I'm serious about Elon not liking these types of studies by the way. Don't rat me out to him. I don't need a billionaire mad at me.
