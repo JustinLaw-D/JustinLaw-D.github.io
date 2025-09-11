@@ -185,6 +185,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  libraries:
+    output: true
+    permalink: /libraries/:path/
 
 announcements:
   enabled: false
@@ -237,6 +240,9 @@ exclude:
   - _pages/profiles.md
   - _pages/publications.md
   - _projects/knot.md
+  - _pages/libraries.md
+  - _pages/teaching.md
+  - _pages/cv.md
   - purgecss.config.js
   - README.md
   - readme_preview/

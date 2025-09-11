@@ -65,12 +65,12 @@
       "institution": "University of British Columbia",
       "location": "Vancouver, Canada",
       "url": "https://www.ubc.ca/",
-      "area": "Pure Mathematics",
+      "area": "Mathematics",
       "studyType": "MSc.",
       "startDate": "2024-09-01",
       "endDate": "",
       "score": "10",
-      "courses": ["Thesis work on a TBD topic in algebra under Dr. Rachel Ollivier and Dr. Sabin Cautis."]
+      "courses": ["Thesis work on Rigid Dualizing Complexes of Affine Hecke Algebras with Dr. Rachel Ollivier and Dr. Sabin Cautis."]
     },
     {
       "institution": "University of British Columbia",
@@ -85,6 +85,20 @@
     }
   ],
   "awards": [
+    {
+      "title": "Faculty of Science Graduate Award",
+      "date": "2024-12-10",
+      "awarder": "UBC Science",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "British Columbia Graduate Scholarship",
+      "date": "2024-10-28",
+      "awarder": "UBC Science",
+      "url": "",
+      "summary": ""
+    },
     {
       "title": "UBC Science Scholar (x5)",
       "date": "2024-05-31",
@@ -178,6 +192,7 @@
         "Java",
         "Python",
         "Sage",
+        "Magma",
         "MATLAB",
         "Matplotlib/Scipy/Numpy",
         "Linux (Debian/CentOS)",
@@ -200,7 +215,7 @@
     },
     {
       "language": "French",
-      "fluency": "Conversational Level",
+      "fluency": "Conversational Level, able to read academic writing in mathematics",
       "icon": ""
     }
   ],
@@ -211,11 +226,9 @@
       "keywords": [
         "Algebra",
         "Algebraic Geometry",
-        "Topology",
         "Number Theory",
         "Category Theory",
-        "Logic",
-        "Teaching"
+        "Logic"
       ]
     },
     {
@@ -224,9 +237,7 @@
       "keywords": [
         "Low-level Computer Programming",
         "Quantum Mechanics",
-        "Board Games",
-        "Ancient History",
-        "DnD"
+        "Teaching"
       ]
     }
   ]

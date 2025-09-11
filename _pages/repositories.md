@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: Repositories
-description: The Sage code written while working on knot group representations is currently not available publically, please contact me if you have interest in obtaining it.
+description: The Sage and Magma code written while working on knot group representations is currently not available publically, please contact me if you have interest in obtaining it.
 nav: true
 nav_order: 4
 ---

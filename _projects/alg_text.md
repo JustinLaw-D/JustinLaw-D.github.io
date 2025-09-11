@@ -15,8 +15,4 @@ Note that this is currently a work in progress. There are missing sections in th
 
 I've also included a list of the references used in the text on this page for your convenience. I can't guarantee the usefulness of any of these sources to you, but they are all available (and more professionally done than this project).
 
-<div class="publications">
-
-{% bibliography --file algebra_ref.bib %}
-
-</div>
+ <script src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F17061271%2Fcollections%2FFEISM6DG%2Fitems%3Fkey%3Dc22zX9grBLuoYaQuL2r6TYSS%26format%3Dbibtex%26limit%3D100&jsonp=1&showSearch=true&groupby=year&sort=author_short&theme=mila"></script> 

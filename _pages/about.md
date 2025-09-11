@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://math.ubc.ca'>University of British Columbia</a>
+subtitle: <a href='https://www.math.ubc.ca'>University of British Columbia</a>
 
 profile:
   align: right
@@ -14,10 +14,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome to my homepage! Here, you can find the various projects that I've worked on over the years, along with all the normal boring stuff (papers, cv, teaching, contact information, etc.).
+Welcome to my homepage! Here, you can find the various projects that I've worked on over the years, along with all the normal boring stuff (papers, CV, teaching, contact information, etc.).
 
-A little bit about myself : I'm currently a master's student in mathematics at UBC, studying under <a href='https://personal.math.ubc.ca/~ollivier/'>Rachel Ollivier</a> and <a href='https://personal.math.ubc.ca/~cautis/'>Sabin Cautis</a>. I tend to work in anything algebra related, but have a deep dark past as a physicist so I occasionally find myself doing some more practical math as well.
+I'm currently a master's student in mathematics at UBC, studying under <a href='https://personal.math.ubc.ca/~ollivier/'>Rachel Ollivier</a> and <a href='https://personal.math.ubc.ca/~cautis/'>Sabin Cautis</a>. I work on computing rigid dualizing complexes for various algebras relevant to representation theory, with an eye towards applications to the mod p local Langlands program.
 
-Outside of work, I'm a recovered book addict, an avid DND player, and spend potentially too much time finding new and exciting ways to cook pasta. I used to be a hockey player as well, but that petered out once I moved into an apartment.
+Outside of work you can find me bouldering, playing DND, having minor heart attacks watching the Leafs come playoff time, or finding a new and exciting ways to cook pasta. I even cook other things occationally, and sometimes they're good!
+
+My CV can be found <a href="/../assets/pdf/cv.pdf" download>here</a>. If you are my student, please contact me via <a href="mailto:justin@math.ubc.ca">this email</a>, not the one in my CV.
 
 Feel free to contact me about any of the projects or papers you find here, or for any other reason!
