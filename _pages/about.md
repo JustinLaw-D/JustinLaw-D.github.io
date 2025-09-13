@@ -18,7 +18,7 @@ Welcome to my homepage! Here, you can find the various projects that I've worked
 
 I'm currently a master's student in mathematics at UBC, studying under <a href='https://personal.math.ubc.ca/~ollivier/'>Rachel Ollivier</a> and <a href='https://personal.math.ubc.ca/~cautis/'>Sabin Cautis</a>. I work on computing rigid dualizing complexes for various algebras relevant to representation theory, with an eye towards applications to the mod p local Langlands program.
 
-Outside of work you can find me bouldering, playing DND, having minor heart attacks watching the Leafs come playoff time, or finding new and exciting ways to cook pasta. I even cook other things occationally, and sometimes they're good!
+Outside of work you can find me bouldering, playing DND, having minor heart attacks watching the Leafs come playoff time, or finding new and exciting ways to cook pasta. I even cook other things occasionally, and sometimes they're good!
 
 My CV can be found <a href="/../assets/pdf/cv.pdf" download>here</a>. If you are my student, please contact me via <a href="mailto:justin@math.ubc.ca">this email</a>, not the one in my CV.
 
