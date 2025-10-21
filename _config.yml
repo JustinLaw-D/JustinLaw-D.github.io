@@ -238,8 +238,6 @@ exclude:
   - _pages/dropdown.md
   - _pages/news.md
   - _pages/profiles.md
-  - _pages/publications.md
-  - _projects/knot.md
   - _pages/libraries.md
   - _pages/teaching.md
   - _pages/cv.md
